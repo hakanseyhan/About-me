@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hakan SEYHAN
 - 👀 I'm interested in Software and Web Design.
-- 🌱 I'm currently learning HTML, CSS and C# language.
+- 🌱 I'm currently learning HTML&CSS, JavaScript and C# language.
 - 💞️ I can't cooperate yet because my education life is still going on
 - 📫 You can contact me through my social media accounts or my upcoming website.
 -  LinkedIn : Hakan SEYHAN
