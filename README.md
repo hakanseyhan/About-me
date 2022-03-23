@@ -3,7 +3,6 @@
 - 🌱 I'm currently learning HTML & CSS, JavaScript and C# language.
 - 💞️ I can't cooperate yet because my education life is still going on
 - 📫 You can contact me via my social media accounts or my website.
-- seyhanblog.com
 - LinkedIn : Hakan SEYHAN
 - Twitter : @hknsyn22
 - İnstagram : @hakan.seyhan1
